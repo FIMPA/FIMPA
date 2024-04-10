@@ -1,5 +1,7 @@
 # Hi there 👋 I am M. Fimpa
 
+![image](https://github.com/FIMPA/FIMPA/assets/154478231/469b3585-9d8a-4a94-ae3b-f2f58bbc979d)
+
 ## About
 ### Welcome to my GitHub profile! I am a Junior Software Engineer with background in mechanical engineering and healthcare industry.
 ### I am excited to switch my career to Tech.
